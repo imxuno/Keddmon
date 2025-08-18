@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <strong>Full-stack developer & ML tinkerer.</strong><br/>
+  <strong>Full-stack developer</strong><br/>
 </p>
 
 <div align="center">
