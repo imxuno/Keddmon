@@ -5,12 +5,12 @@
 </div>
 
 <p align="center">
-  <strong>Full-stack developer</strong><br/>
+<!--   <strong>Full-stack developer</strong><br/> -->
 </p>
 
 <div align="center">
 
-  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FKeddmon?color=gray&label=hits&size=medium)](https://myhits.vercel.app)
+  <!-- [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FKeddmon?color=gray&label=hits&size=medium)](https://myhits.vercel.app) -->
 
 </div>
 
