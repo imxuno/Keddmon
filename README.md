@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=10&text=Keddmon's%20GITHUB&reversal=false&fontColor=ffffff&fontAlignY=35&fontAlign=68&animation=fadeIn&rotate=0&fontSize=50&descAlign=60)
+  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=10&text=imxuno's%20GITHUB&reversal=false&fontColor=ffffff&fontAlignY=35&fontAlign=68&animation=fadeIn&rotate=0&fontSize=50&descAlign=60)
 
 </div>
 
@@ -44,7 +44,7 @@
 
 ### 🏗️ Backend
 <p>
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
@@ -87,11 +87,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Keddmon&show_icons=true&rank_icon=github&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keddmon&layout=compact&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imxuno&show_icons=true&rank_icon=github&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imxuno&layout=compact&theme=transparent" />
 </p>
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Keddmon&theme=transparent" />
+  <img height="165" src="https://streak-stats.demolab.com?user=imxuno&theme=transparent" />
 </p>
 
 <!--
